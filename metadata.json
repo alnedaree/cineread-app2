@@ -1,0 +1,6 @@
+{
+  "name": "Cinera",
+  "description": "Luxurious interactive cinematic e-book novel app with synchronized ambient music, sound effects, per-character voice customization, character & scene artwork, and multilingual reading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
